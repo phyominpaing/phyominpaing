@@ -75,13 +75,6 @@ Prisma • MySQL • PostgreSQL
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyominpaing&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phyominpaing&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=minpaingphyo255@gmail.com&su=Hello%20Phyo%20Min%20Paing&body=I%20want%20to%20contact%20you)
