@@ -1,14 +1,14 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Phyo+Min+Paing+👋;Frontend+Developer+(React+%2F+Next.js);Future+MERN+Stack+Developer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Phyo+Min+Paing+👋;Frontend+Developer+(React+%2F+Next.js);Future+Full+Stack+Developer+🚀;" />
 </p>
 
 
 ## 🚀 About Me
 
 I am a passionate **Front-End Developer** specializing in **React.js** and **Next.js**.  
-Currently working at **Innovix Solutions** and learning **Full-Stack Development** to become a **MERN Stack Developer**.  
-I love building modern, responsive, and user-friendly web applications 💻✨
+Currently working at **Innovix Solutions** and learning **Full-Stack Development**.  
+I love building modern, responsive, scalable and user-friendly web applications 💻✨
 
 
 
@@ -45,20 +45,20 @@ I love building modern, responsive, and user-friendly web applications 💻✨
 
 ### ✨ Also Working With
 Redux Toolkit • Zustand • React Hook Form • Axios • SWR • GSAP • Framer Motion  
-Prisma • MySQL • PostgreSQL
+Prisma • MySQL • PostgreSQL • Mongoose 
 
 
 ## 🔭 Current Work
 
 💼 Front-End Developer at **Innovix Solutions**  
-🚀 Building full-stack MERN applications  
+🚀 Building full-stack applications  
 🌍 Contributing to open-source projects  
 🎯 Improving UI/UX & performance  
 
 
 ## 🌱 Currently Learning
 
-📚 Full-Stack Development (MERN Stack)  
+📚 Full-Stack Development
 🧠 Backend Architecture & API Design  
 🗄 Database Design (Prisma, PostgreSQL, MongoDB)  
 ⚡ Advanced State Management  
