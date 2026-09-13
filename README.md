@@ -1,13 +1,13 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Phyo+Min+Paing+👋;Frontend+Developer+(React+%2F+Next.js);Future+Full+Stack+Developer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Phyo+Min+Paing+👋;Full+Stack+Web+Developer+🚀;" />
 </p>
 
 
 ## 🚀 About Me
 
-I am a passionate **Front-End Developer** specializing in **React.js** and **Next.js**.  
-Currently working at **Innovix Solutions** and learning **Full-Stack Development**.  
+I am a passionate **Full Stack Web Developer** specializing in **React.js**, **Next.js** and **PHP** , **Laravel**.  
+Currently working at **Innovix Solutions** and learning **Mobile App Development**.  
 I love building modern, responsive, scalable and user-friendly web applications 💻✨
 
 
@@ -50,7 +50,7 @@ Prisma • MySQL • PostgreSQL • Mongoose
 
 ## 🔭 Current Work
 
-💼 Front-End Developer at **Innovix Solutions**  
+💼 Web Developer at **Innovix Solutions**  
 🚀 Building full-stack applications  
 🌍 Contributing to open-source projects  
 🎯 Improving UI/UX & performance  
